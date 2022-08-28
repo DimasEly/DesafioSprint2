@@ -13,24 +13,23 @@ Ele funciona através de time boxes, essas são fixas e não alteram de tamanho.
 Git é um sistema de controle que possue a função de registrar quaisquer alterações feitas em cima de um código, armazenando essas informações e permite que um(a) programador(a) possa regredir a versões anteriores de uma aplicação de modo simples e rápido
 
 5. Qual o comando para criação de um novo repositório no Git?
-git inint
+Git inint.
 
 6. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um
 comando. Qual é esse comando?
-git add
-
+Git add.
 
 7. O que é a Branch master e para que serve?
 A branch master é uma ramifacação onde ficam os códigos ainda em desenvolvimento.
 
 8. Quais são os comandos usados para atualizar um repositório local e fazer merge
 de um outro branch ao seu branch ativo?
-git pull
+Git pull.
 
 
 9. Qual a diferença entre git e github?
 Git é uma espécie de software, enquanto isso Github é uma das plataformas que usando o git, faz com que os devs possam desenvolver e atualizar os seus projetos sozinhos ou de forma colaborativa com outros devs.
 
 10. Conta pra gente como foi sua experiência na Sprint#02 do programa de bolsa
-@Android e quais suas expectativas a partir de agora
+@Android e quais suas expectativas a partir de agora.
 Minha experiência foi bastante difícil, tive muita dificuldade e não consegui fazer o código funcionar, por isso eu optei em não enviá-lo. Foi uma sensação bem frustrante não conseguir fazer o que foi pedido. Eu espero que na próxima Sprint eu consiga entender melhor o conteúdo e realmente avançar.
